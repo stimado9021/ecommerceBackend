@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Aguila Roja",
+      "description": "Colombia's most popular lager, known for its light, refreshing taste with a subtle bitter touch.",
+      "price": 2000,  
+      "stock": 12,
+      "category": "Lager",
+      "imgUrl": "https://lorenzzapizzeria.com/wp-content/uploads/2020/04/Aguila-01.jpg"
+    },
+    {
+      "name": "Club Colombia Dorada",
+      "description": "Premium lager recognized for its balanced, malty flavor. A multi-award-winning Colombian beer.",
+      "price": 3500,  
+      "stock": 21,
+      "category": "Lager",
+      "imgUrl": "https://www.lechoneriaedgar.com/wp-content/uploads/2020/08/club-colombia-dorada.png"
+    },
+    {
+      "name": "Poker Premium",
+      "description": "Lager with a more intense, hoppy taste compared to traditional beers. Ideal for those seeking a bolder flavor.",
+      "price": 3000,  
+      "stock": 32,
+      "category": "Lager",
+      "imgUrl": "https://jotajotafoods.com/wp-content/uploads/2021/12/CER00028-1.jpg"
+    },
+    {
+      "name": "Costeñita Light",
+      "description": "Perfect for hot climates, this light and refreshing lager boasts low alcohol and calorie content.",
+      "price": 2500,  
+      "stock": 41,
+      "category": "Lager",
+      "imgUrl": "https://www.bavaria.co/sites/g/files/seuoyk1666/files/2023-10/BOTELLA_COSTENITA_0.png"
+    },
+    {
+      "name": "Andina Premium",
+      "description": "Craft lager made with high-quality ingredients. Offers a smooth, balanced taste with a hint of roasted malt.",
+      "price": 4000,  
+      "stock": 24,
+      "category": "Lager",
+      "imgUrl": "https://i8b5j9c8.rocketcdn.me/wp-content/uploads/2023/08/dorada.png/"
+    },
+    {
+      "name": "Tequendama Golden Ale",
+      "description": "Renowned craft ale known for its fruity and spicy notes. A unique, refreshing option for those who enjoy flavorful beers.",
+      "price": 4500, 
+      "stock": 13,
+      "category": "Ale",
+      "imgUrl": "https://10619-2.s.cdn12.com/rests/original/346_509537036.jpg" 
+    },
+    {
+      "name": "La Oveja Negra Stout",
+      "description": "Craft stout brewed with oats and coffee. Features a dark, complex flavor with hints of chocolate and caramel.",
+      "price": 5000,  
+      "stock": 54,
+      "category": "Stout",
+      "imgUrl": "https://assets.untappd.com/photos/2022_04_17/84a1f12621fd9f568cfe02e1baf969e9_raw.jpg "
+    },
+    {
+      "name": "3.3 Golden Ale",
+      "description": "Craft ale brewed with Colombian hops. Delivers a citrusy, refreshing taste with a touch of pine.",
+      "price": 4200,  
+      "stock": 76,
+      "category": "Ale",
+      "imgUrl": "https://www.beerlarder.com/wp-content/uploads/Colon-Golden-Ale.png"
+    },
+    {
+      "name": "Aguila Cero",
+      "description": "Alcohol-free lager for those who want to enjoy the taste of beer without the effects of alcohol.",
+      "price": 2200, 
+      "stock": 18,
+      "category": "Lager sin alcohol",
+      "imgUrl": "https://www.bavaria.co/sites/g/files/seuoyk1666/files/2024-01/set-botella_lata_zero.png"
+    }
+    ]
+   
